@@ -1,7 +1,5 @@
 # Graph-based Semi-Supervised Approach to Food Adulteration Detection from Analytical Data with Limited Labels
 
----
-
 ## Core Modules
 
 ### 1. SJUS (Structural Joint-Uncertainty Selection)
